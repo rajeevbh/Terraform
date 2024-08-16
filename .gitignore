@@ -1,0 +1,14 @@
+# Ignore the Terraform state file
+terraform.tfstate
+
+# Ignore the Terraform lock file
+.terraform.lock.hcl
+
+# Ignore the Terraform provider binary
+terraform-provider-azurerm_v*.exe
+
+# Ignore all .tf files
+*.tf
+
+# Ignore the LICENSE file (if needed, though this is unusual)
+LICENSE.txt
