@@ -7,8 +7,9 @@ terraform.tfstate
 # Ignore the Terraform provider binary
 terraform-provider-azurerm_v*.exe
 
-# Ignore all .tf files
-*.tf
+# Ignore main .tf files
+main.tf
+sample.tf
 
 # Ignore the LICENSE file (if needed, though this is unusual)
 LICENSE.txt
