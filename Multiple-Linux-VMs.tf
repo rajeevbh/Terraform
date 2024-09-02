@@ -1,4 +1,4 @@
-# Terrafrom firl create multiple Linux VMs (count.index)
+# Terrafrom file to create multiple Linux VMs (count.index)
 terraform {
     required_providers {
         azurerm = {
