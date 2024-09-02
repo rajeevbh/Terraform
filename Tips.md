@@ -5,7 +5,7 @@
 
 - If one has already login with AZ account, one can only provide subscription id in the azurerm configuraion
  
-- Set up Environment Variable
+# Set up Environment Variable
   Windows (CMD)
   *************
   set ARM_CLIENT_ID=your-client-id
