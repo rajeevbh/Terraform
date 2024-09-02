@@ -2,6 +2,8 @@
   - Azure Active Directory --> App Registration
   - Service Principal (Subscription Id, Client Id, Tennat id, Sceret (value)) 
   - Subscription -> IAM -> assign contributor role
+
+- If one has already login with AZ account, one can only provide subscription id in the azurerm configuraion
  
 - Set up Environment Variable
   Windows (CMD)
